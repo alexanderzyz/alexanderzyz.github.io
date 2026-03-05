@@ -12,6 +12,6 @@
 papers:
   - title: "Qlpro: Automated code vulnerability discovery via llm and static code analysis integration"
     authors: "Junze Hu, Xiangyu Jin, <b>Yizhe Zeng</b>, Yuling Liu, Yunpeng Li, Dan Du, Kaiyu Xie, Hongsong Zhu"
-    venue: "arxiv"
+    venue: "arxiv:2506"
     paper_pdf: "/assets/publications/2025_arxiv_Qlpro/paper.pdf"
     label: P
