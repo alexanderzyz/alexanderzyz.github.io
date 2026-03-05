@@ -1,0 +1,15 @@
+source: .
+destination: _site
+includes_dir: _includes
+baseurl: ""
+
+# Explicitly include the `_data` directory if needed
+include:
+  - _data
+
+# Set the URL for GitHub Pages
+url: "https://alexanderzyz.github.io"
+
+collections:
+  projects:
+    output: true

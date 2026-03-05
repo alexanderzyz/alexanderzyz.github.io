@@ -1,0 +1,17 @@
+# template
+# - title: "Rethinking the Safety Landscape for Foundation Models: A Multi-Modal Perspective"
+#   authors: "<b>Xi Li</b>, Shu Zhao, Fei Zhao, Runlong Yu"
+#   venue: "ICCV 2025 T2FM Workshop"
+#   paper_pdf: "/assets/publications/2025_ICCV_T2FM/paper.pdf"
+#   poster: "/assets/publications/2025_ICCV_T2FM/poster.pdf"
+#   code: "https://github.com/lixi1994/CoS"
+#   website: "https://sites.google.com/view/safe-multi-modal-learning/home"
+#   slides: "/assets/publications/2025_ICCV_T2FM/slides.pdf"
+#   label: W (C -> conference, J-> journal, W -> workshop, P -> preprint)
+
+papers:
+  - title: "Qlpro: Automated code vulnerability discovery via llm and static code analysis integration"
+    authors: "Junze Hu, Xiangyu Jin, <br>Yizhe Zeng</br>, Yuling Liu, Yunpeng Li, Dan Du, Kaiyu Xie, Hongsong Zhu"
+    venue: "arxiv"
+    paper_pdf: "/assets/publications/2025_arxiv_Qlpro/paper.pdf"
+    label: P
