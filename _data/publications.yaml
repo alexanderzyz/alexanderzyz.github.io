@@ -10,23 +10,21 @@
 #   label: W (C -> conference, J-> journal, W -> workshop, P -> preprint)
 
 papers:
-  - title: "Qlpro: Automated code vulnerability discovery via llm and static code analysis integration"
-    authors: "Junze Hu, Xiangyu Jin, <b>Yizhe Zeng</b>, Yuling Liu, Yunpeng Li, Dan Du, Kaiyu Xie, Hongsong Zhu"
-    venue: "arxiv:2506"
-    paper_pdf: "/assets/publications/2025_arxiv_Qlpro/paper.pdf"
-    label: P
-
-papers:
-  - title: "AUDITGPT: A MULTI-AGENT FRAMEWORK FOR ENHANCING STATIC ANALYSIS"
-    authors: "Junze Hu, <b>Yizhe Zeng</b>, Guoli Zhao, Kaiyu Xie, Yimo Ren, Dahui Li, Hongsong Zhu"
-    venue: "ICASSP 2026"
-    paper_pdf: "/assets/publications/2026_ICASSP_AUDITGPT/paper.pdf"
-    label: C
-
-papers:
   - title: "MirageBackdoor: A Stealthy Attack that Induces Think-Well-Answer-Wrong Reasoning"
     authors: "<b>Yizhe Zeng</b>, Wei Zhang, Yunpeng Li, Juxin Xiao, Xiao Wang, Yuling Liu"
     venue: "ACL 2026"
     website: "https://arxiv.org/abs/2604.06840"
     paper_pdf: "/assets/publications/2026_ACL_MirageBackdoor/paper.pdf"
     label: C
+
+  - title: "AUDITGPT: A MULTI-AGENT FRAMEWORK FOR ENHANCING STATIC ANALYSIS"
+    authors: "Junze Hu, <b>Yizhe Zeng</b>, Guoli Zhao, Kaiyu Xie, Yimo Ren, Dahui Li, Hongsong Zhu"
+    venue: "ICASSP 2026"
+    paper_pdf: "/assets/publications/2026_ICASSP_AUDITGPT/paper.pdf"
+    label: C
+
+  - title: "Qlpro: Automated code vulnerability discovery via llm and static code analysis integration"
+    authors: "Junze Hu, Xiangyu Jin, <b>Yizhe Zeng</b>, Yuling Liu, Yunpeng Li, Dan Du, Kaiyu Xie, Hongsong Zhu"
+    venue: "arxiv:2506"
+    paper_pdf: "/assets/publications/2025_arxiv_Qlpro/paper.pdf"
+    label: P
