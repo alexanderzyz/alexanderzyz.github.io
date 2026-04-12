@@ -21,10 +21,12 @@ papers:
     authors: "Junze Hu, <b>Yizhe Zeng</b>, Guoli Zhao, Kaiyu Xie, Yimo Ren, Dahui Li, Hongsong Zhu"
     venue: "ICASSP 2026"
     paper_pdf: "/assets/publications/2026_ICASSP_AUDITGPT/paper.pdf"
+    #website: ""
     label: C
 
   - title: "Qlpro: Automated code vulnerability discovery via llm and static code analysis integration"
     authors: "Junze Hu, Xiangyu Jin, <b>Yizhe Zeng</b>, Yuling Liu, Yunpeng Li, Dan Du, Kaiyu Xie, Hongsong Zhu"
     venue: "arxiv:2506"
+    website: "https://arxiv.org/abs/2506.23644"
     paper_pdf: "/assets/publications/2025_arxiv_Qlpro/paper.pdf"
     label: P
