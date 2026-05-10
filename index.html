@@ -245,11 +245,16 @@ title: Home
 
   {% for award in site.data.awards.awards %}
     <div class="paper">
-      <p class="title"><b>{{ award.title }}</b></p>
+      <p class="title"><b>{{ award.title }}, {{ award.year }}</b></p>
       <p>{{ award.organization }}</p>
-      <p><i>{{ award.year }}</i></p>
       {% if award.award_level %}
-        <p>{{ award.award_level }}</p>
+        <p style="color: #000;">
+          {% if award.award_level == "Champion" %}
+            🏆 {{ award.award_level }}
+          {% else %}
+            {{ award.award_level }}
+          {% endif %}
+        </p>
       {% endif %}
     </div>
   {% endfor %}
